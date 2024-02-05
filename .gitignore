@@ -27,3 +27,6 @@ apikey.js
 .eslintrc.cjs
 favicon.ico
 vite.config.js
+buscador-peliculas.png
+postcss.config.js
+tailwind.config.js
